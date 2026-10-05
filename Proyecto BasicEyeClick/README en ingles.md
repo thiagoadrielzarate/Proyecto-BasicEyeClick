@@ -1,4 +1,4 @@
-# Eye Gaze PointClick v0.3 — Overlay + Dwell (fixed)
+# BasicEyeClick v0.5
 
 This build keeps the stable v0.3 tracking, calibration, larger bubble and mouse control, and adds a transparent click-through overlay for the test game.
 
