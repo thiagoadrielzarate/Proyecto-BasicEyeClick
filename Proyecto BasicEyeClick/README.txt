@@ -1,3 +1,7 @@
+El programa se puede utilizar ejecutandolo directamente desde el run.bat, donde se instalaran
+todas las dependencias, los archivos y se realizara la calibracion para posteriormente
+poder mostrarse
+
 POINTCLICK TEST - ZONA DE BURBUJA
 
 Esta version mantiene el eye tracker y el overlay de la version anterior.
