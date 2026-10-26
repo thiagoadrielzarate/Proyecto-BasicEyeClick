@@ -28,7 +28,3 @@ Al iniciar o recalibrar, el lanzador crea `.venv` si hace falta e instala/verifi
 
 ## Solución de rutas Tcl/Tk
 El lanzador limpia las variables de entorno Tcl/Tk temporales de PyInstaller antes de iniciar Python externo, para evitar el error `Can't find a usable init.tcl`.
-
-
-## Nombre de la versión
-El nombre del proyecto es **BasicEyeClick v0.9**. El nombre anterior se conservó únicamente en algunos nombres internos de funciones o comentarios heredados del desarrollo.
